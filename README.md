@@ -1,21 +1,22 @@
 # ToDoList with Redux
 
-This is the little project to study Redux
+Little project to learn Redux
 
 ## How to run the project ⚙️
 
 ### Clone this repository
 
-`git clone https://github.com/EkaterinaJego/ToDoList_with_redux`,
-cd ToDoList_with_redux`
+`git clone https://github.com/EkaterinaJego/ToDoList_with_redux` ,
+
+`cd ToDoList_with_redux`
 
 ### Install packages
 
-yarn install`
+`yarn install`
 
 ### Once installation is over, run it
 
-yarn start`
+`yarn start`
 
 ### Main dependencies
 
